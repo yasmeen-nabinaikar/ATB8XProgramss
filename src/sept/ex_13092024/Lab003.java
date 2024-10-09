@@ -13,7 +13,7 @@ public class Lab003 {
     }
 
     public static void main (int args) {
-        System.out.println("im good thank you");
+        System.out.println("87");
     }
 }
 
